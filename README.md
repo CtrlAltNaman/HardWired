@@ -1,9 +1,5 @@
 # HardWired01_PS-1585
 
-# Important
-
-## Please organise the contents into files and folders.
-
 ## Table of Contents
 
 - [Introduction](#introduction)
